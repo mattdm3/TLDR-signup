@@ -5,7 +5,7 @@ export default function Document() {
     <Html lang="en">
       <Head />
       <body
-        style={{ backgroundImage: "linear-gradient(90deg,#1b0022 0,#000);" }}
+        style={{ backgroundImage: "radial-gradient(#1b0029, #000)" }}
         className="text-white"
       >
         <Main />
